@@ -1,9 +1,13 @@
 Adding Ruby support to Kattis
 =============================
 
-This repository contains a simple (Kattis-formatted) "Hello, world!" problem to test
-Ruby support in Kattis. The problem has been tested with a patched `problemtools` on 
-a Ubuntu 14.04 machine and passes all tests without errors.
+This repository contains two directories:
+
+* `helloruby`: A simple (Kattis-formatted) "Hello, world!" problem to test
+  Ruby support in Kattis. The problem has been tested with a patched `problemtools` on 
+  a Ubuntu 14.04 machine and passes all tests without errors.
+* `different`: A solution to https://open.kattis.com/problems/different in Ruby.
+
 
 Notes
 -----
@@ -21,8 +25,8 @@ Notes
  
   ```ruby2.0 $SOURCE_FILE```
 
-Submissions
------------
+`helloruby` Submissions
+-----------------------
 
 Most of the provided submissions should be self-explanatory. A few comments on some of them:
 
