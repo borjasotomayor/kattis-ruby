@@ -12,18 +12,18 @@ This repository contains two directories:
 Notes
 -----
 
-* **Dependencies**: On Ubuntu, only the `ruby2.0` package is required.
+* **Dependencies**: On Ubuntu, only the `ruby` package is required.
 * **Compilation command**: Since Ruby is interpreted, there is no compilation command, but the following
   command can be used to do a syntax check on a Ruby file
 
-  ```ruby2.0 -c $SOURCE_FILE```
+  ```ruby -c $SOURCE_FILE```
   
   If the syntax is correct, this will print `Syntax OK` (and the return code will be zero). If
   the syntax is incorrect, it will print an error message a the return code will non-zero.
   
 * **Execution command**: Use the following command:
  
-  ```ruby2.0 $SOURCE_FILE```
+  ```ruby $SOURCE_FILE```
 
 `helloruby` Submissions
 -----------------------

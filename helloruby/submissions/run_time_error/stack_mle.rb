@@ -1,4 +1,4 @@
-#!/usr/bin/ruby2.0
+#!/usr/bin/ruby
 
 n = STDIN.read.to_i
 

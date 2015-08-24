@@ -1,4 +1,4 @@
-#!/usr/bin/ruby2.0
+#!/usr/bin/ruby
 
 # Solution to https://open.kattis.com/problems/different
 
